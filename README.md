@@ -29,7 +29,7 @@ Sample from the data:
 - **Power BI:** Used for creating dashboards and visualizing the data.
 | Tool Name | Logo | Website | Comment |
 |:----------|:-----|:--------|:--------|
-| Power BI |<img width="100" height="100" src="https://github.com/OmarHHafez/US_Failed_Banks/assets/28839003/143a2190-9658-4dc8-9491-d54996b8e36c">| https://powerbi.microsoft.com | Tool used to create dashboards and reports |
+| Power BI | <img width="50" height="50" src="https://github.com/OmarHHafez/US_Failed_Banks/assets/28839003/143a2190-9658-4dc8-9491-d54996b8e36c">| https://powerbi.microsoft.com | Tool used to create dashboards and reports |
 
 
 ## Data Preprocessing
