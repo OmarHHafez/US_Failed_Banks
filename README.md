@@ -33,10 +33,8 @@ Sample from the data:
 ## Data Preprocessing
 
 1. **Data Cleaning:** Columns were organized and separated using Power Query for better usability.
-<img width="929" src="https://github.com/OmarHHafez/US_Failed_Banks/assets/28839003/9273c963-5a76-441c-848f-5575b051cca9">
 <img width="929" src="./assets/images/Data_Cleaning.png">
 
-<br>
 <br>
 
 2. **Unit Conversion:** "Approx. Asset" & "Approx. Deposit" columns were calculated for better readability.
@@ -48,7 +46,6 @@ Sample from the data:
 
 A comparison between [Great Recession](https://en.wikipedia.org/wiki/Great_Recession) and 2023 shows that despite only 4 banks failed until September, it surpassed the assets of 165 banks failed between 2007 & 2009. It also shows how large are the failed banks in 2023. 
 
-<img width="896" alt="image" src="https://github.com/OmarHHafez/US_Failed_Banks/assets/28839003/97a0e876-72e4-479f-8a8a-c4e00fbfe083">
 <img width="896" src="./assets/images/Dashboard.png">
 
 
