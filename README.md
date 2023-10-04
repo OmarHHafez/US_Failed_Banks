@@ -1,4 +1,6 @@
-# US Bank Failures Dashboard
+# US Bank Failures Dashboard 🏦
+
+<img width="%100" src="./assets/header.jpg">
 
 ## Introduction
 
@@ -26,27 +28,29 @@ Sample from the data:
 
 ## Tools
 
-| Tool | Logo | Use | Website |
-|:----------|:-----|:--------|:--------|
-| Power BI | <img width="40" height="40" src="https://github.com/OmarHHafez/US_Failed_Banks/assets/28839003/143a2190-9658-4dc8-9491-d54996b8e36c">| Clean data & create dashboard | https://powerbi.microsoft.com |
+| Tool | Logo | Use |
+|:----------|:-----|:--------|
+| [Power BI](https://powerbi.microsoft.com) | <img width="40" height="40" src="./assets/PowerBI_logo.png">| Data processing & visualization |
 
-## Data Preprocessing
+## Data Processing
+
+Outlined below are key data processing steps undertaken on the dataset to ensure its integrity and readiness for analysis.
 
 1. **Data Cleaning:** Columns were organized and separated using Power Query for better usability.
-<img width="929" src="./assets/images/Data_Cleaning.png">
+<img width="929" src="./assets/Data_Cleaning.png">
 
 <br>
 
-2. **Unit Conversion:** "Approx. Asset" & "Approx. Deposit" columns were calculated for better readability.
+2. **Unit Conversion:** "Approx. Asset" & "Approx. Deposit" columns were calculated instead of (Millions) unit for better readability.
 
 
 <br>
 
 ## Results
 
-A comparison between [Great Recession](https://en.wikipedia.org/wiki/Great_Recession) and 2023 shows that despite only 4 banks failed until September, it surpassed the assets of 165 banks failed between 2007 & 2009. It also shows how large are the failed banks in 2023. 
+A comparison between [Great Recession](https://en.wikipedia.org/wiki/Great_Recession) and 2023 shows that despite only 4 banks failed until October, it surpassed the assets of 165 banks failed between 2007 & 2009. It also shows how large are the failed banks in 2023. 
 
-<img width="896" src="./assets/images/Dashboard.png">
+<img width="%100" src="./assets/Dashboard.png">
 
 
 
